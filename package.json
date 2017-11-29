@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-gci17",
+  "version": "0.1.0",
+  "description": "\"Hello, world!\" printed to console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-ulphuric/hello-world-gci17.git"
+  },
+  "author": "Aditya Singh <nxtbig@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S-ulphuric/hello-world-gci17/issues"
+  },
+  "homepage": "https://github.com/S-ulphuric/hello-world-gci17#readme"
+}
